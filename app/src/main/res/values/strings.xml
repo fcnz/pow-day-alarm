@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Revelstoke Powday Alarm</string>
+    <string name="alarm_toggle_on">Active</string>
+    <string name="alarm_toggle_off">Inactive</string>
+</resources>
