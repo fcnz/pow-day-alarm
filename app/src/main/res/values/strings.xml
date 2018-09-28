@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Revelstoke Powday Alarm</string>
-    <string name="alarm_toggle_on">Active</string>
-    <string name="alarm_toggle_off">Inactive</string>
+    <string name="alarm_toggle_on">Turn Off</string>
+    <string name="alarm_toggle_off">Turn On</string>
+    <string name="dismiss_alarm">Dismiss</string>
+    <string name="snowfall_label">How much Pow?</string>
+    <string name="time_label">Time</string>
 </resources>
