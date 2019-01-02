@@ -25,4 +25,10 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+    // Web scraping
+    implementation 'org.jsoup:jsoup:1.11.3'
+
+    // Logging
+    implementation 'com.jakewharton.timber:timber:4.7.1'
 }
